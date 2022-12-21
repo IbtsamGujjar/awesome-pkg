@@ -1,0 +1,20 @@
+.husky
+node_modules
+yarn.lock
+
+build/
+dist/
+
+#IDEs
+*.sublime*
+.idea
+.vscode
+
+#Testing
+/coverage
+
+#YAML
+**/*.yml
+
+# mark down
+*.md*
